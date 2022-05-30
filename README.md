@@ -4,7 +4,7 @@ Retrieve binary payload from a remote url and execute it in-memory using memfd
 ## Why in-memory execution ?
 
 - No trace (almost ..)
-- Evades detection by AVs and runtime security tools like [Falco]([url](https://github.com/falcosecurity/falco)).
+- Evades detection by AVs and runtime security tools like [Falco](https://github.com/falcosecurity/falco).
 
 ## How does it work?
 
